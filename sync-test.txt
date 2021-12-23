@@ -1,0 +1,3 @@
+My name
+Current date
+File created to test GitHub sync
